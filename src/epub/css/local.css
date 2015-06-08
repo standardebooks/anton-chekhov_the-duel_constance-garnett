@@ -1,6 +1,27 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+*[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:verse"] br{
+	display: none;
+}
+
+cite{
+	display: block;
+	text-align: right;
+	margin: 1em 0;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
