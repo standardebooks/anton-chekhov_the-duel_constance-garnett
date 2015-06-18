@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
-		<meta property="dcterms:modified">2015-06-08T22:59:52Z</meta>
+		<meta property="dcterms:modified">2015-06-18T23:30:34Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -25,15 +25,16 @@
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13505</meta>
 		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/13505</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless.  Finally, Laevsky can't take it any more.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of Chekhov&amp;rsquo;s longest works, skirting the edge between novel and novella.  Like many of Chekhov&amp;rsquo;s works, it was first published as a serial.&lt;/p&gt;
+			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life&amp;rsquo;s vices.  His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky.  Their mutual enmity culminates in a duel&amp;mdash;though neither they, nor their friends, really want it to happen.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
-		<meta property="se:word-count">40504</meta>
+		<meta property="se:word-count">40503</meta>
 		<meta property="se:url.encyclopedia.wikipedia">http://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-duel_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
