@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
-		<meta property="dcterms:modified">2015-11-18T22:12:58Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,6 +35,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
 		<meta property="se:word-count">40503</meta>
+		<meta property="se:reading-ease.flesch">71.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">http://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-duel_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
