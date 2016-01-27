@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
-		<meta property="dcterms:modified">2016-01-12T00:37:45Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:39:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -21,9 +21,9 @@
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
 		<dc:subject id="subject-3">Short stories, Russian -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/13505</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13505</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/13505</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13505</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13505</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/13505</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless.  Finally, Laevsky can’t take it any more.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -33,7 +33,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<meta property="se:word-count">40503</meta>
 		<meta property="se:reading-ease.flesch">71.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">http://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
