@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T01:25:45Z</meta>
-		<meta property="se:revision-number">18</meta>
+		<meta property="dcterms:modified">2016-10-31T20:10:52Z</meta>
+		<meta property="se:revision-number">20</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,8 +29,8 @@
 		<dc:description id="description">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless.  Finally, Laevsky can’t take it any more.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of Chekhov&amp;rsquo;s longest works, skirting the edge between novel and novella.  Like many of Chekhov&amp;rsquo;s works, it was first published as a serial.&lt;/p&gt;
-			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life&amp;rsquo;s vices.  His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky.  Their mutual enmity culminates in a duel&amp;mdash;though neither they, nor their friends, really want it to happen.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of Chekhov’s longest works, skirting the edge between novel and novella.  Like many of Chekhov’s works, it was first published as a serial.&lt;/p&gt;
+			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life’s vices.  His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky.  Their mutual enmity culminates in a duel—though neither they, nor their friends, really want it to happen.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
