@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
-		<meta property="dcterms:modified">2017-07-20T23:53:53Z</meta>
-		<meta property="se:revision-number">27</meta>
+		<meta property="dcterms:modified">2017-07-27T06:13:16Z</meta>
+		<meta property="se:revision-number">28</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,7 +37,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<meta property="se:word-count">40464</meta>
 		<meta property="se:reading-ease.flesch">71.34</meta>
-		<meta property="se:url.encyclopedia.wikipedia">http://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-duel_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
@@ -56,7 +56,7 @@
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Ilya_Repin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ilya_Repin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">James Rusk</dc:contributor>
