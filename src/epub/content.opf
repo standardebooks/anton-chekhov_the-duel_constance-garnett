@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Duel</dc:title>
 		<meta property="file-as" refines="#title">Duel, The</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
 		<dc:subject id="subject-3">Short stories, Russian -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13505</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13505</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/13505</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008116778</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111647</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless. Finally, Laevsky can’t take it any more.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of Chekhov’s longest works, skirting the edge between novel and novella. Like many of Chekhov’s works, it was first published as a serial.&lt;/p&gt;
 			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life’s vices. His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky. Their mutual enmity culminates in a duel—though neither they, nor their friends, really want it to happen.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<meta property="se:word-count">40464</meta>
