@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 [epub|type~="z3998:verse"] p{
