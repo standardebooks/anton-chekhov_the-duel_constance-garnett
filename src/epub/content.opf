@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<dc:source>https://books.google.com/books?id=m1AqAAAAYAAJ</dc:source>
-		<meta property="se:word-count">40463</meta>
+		<meta property="se:word-count">40462</meta>
 		<meta property="se:reading-ease.flesch">71.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Duel_%28Chekhov_story%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-duel_constance-garnett</meta>
