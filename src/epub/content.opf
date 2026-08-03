@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anton-chekhov/the-duel/constance-garnett</dc:identifier>
 		<dc:date>2015-06-08T22:59:52Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008111647</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless. Finally, Laevsky can’t take it any more.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless. Finally, Laevsky can’t take it any more.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; longest works, skirting the edge between novel and novella. Like many of Chekhov’s works, it was first published as a serial.&lt;/p&gt;
 			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life’s vices. His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky. Their mutual enmity culminates in a duel—though neither they, nor their friends, really want it to happen.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<dc:source>https://books.google.com/books?id=m1AqAAAAYAAJ</dc:source>
