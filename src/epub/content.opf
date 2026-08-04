@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008111647</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless. Finally, Laevsky can’t take it any more.</dc:abstract>
+		<meta property="schema:abstract">Von Koren, an educated zoologist, finds the slovenly lifestyle of Laevsky, a drinker, to be worthless. Finally, Laevsky can’t take it any more.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Duel&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; longest works, skirting the edge between novel and novella. Like many of Chekhov’s works, it was first published as a serial.&lt;/p&gt;
 			&lt;p&gt;Laevsky is a womanizing drunkard, a slave to life’s vices. His wantonness clashes with the moralistic zoologist Von Koren, who grows to despise Laevsky. Their mutual enmity culminates in a duel—though neither they, nor their friends, really want it to happen.&lt;/p&gt;
