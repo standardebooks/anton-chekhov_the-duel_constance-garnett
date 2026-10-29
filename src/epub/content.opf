@@ -57,7 +57,7 @@
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
 		<meta property="schema:alternateName" refines="#author">Anton Pavlovich Chekhov</meta>
-		<meta property="alternate-script" refines="#author">Анто́н Па́влович Че́хов</meta>
+		<meta property="alternate-script" refines="#author">Антон Павлович Чехов</meta>
 		<link href="https://en.wikipedia.org/wiki/Anton_Chekhov" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79130807.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -69,7 +69,8 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
-		<meta property="alternate-script" refines="#artist">Илья́ Ефи́мович Ре́пин</meta>
+		<meta property="schema:alternateName" refines="#artist">Ilya Yefimovich Repin</meta>
+		<meta property="alternate-script" refines="#artist">Илья Ефимович Репин</meta>
 		<link href="https://en.wikipedia.org/wiki/Ilya_Repin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79075231.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
